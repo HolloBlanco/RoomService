@@ -9,5 +9,5 @@
 
 	$aoe=$_POST["pelicula"];  
 
-	echo "Esto es la prueba para saber el funcionamiento de 'git pull' ";
+	echo "Esto es la prueba para saber el funcionamiento de 'git pull' "; 
 ?>
