@@ -7,5 +7,5 @@
 		echo "Como cambiar la condición a false?";
 	}
 
-	$aoe=$_POST["pelicula"];
+	$aoe=$_POST["pelicula"];  
 ?>
